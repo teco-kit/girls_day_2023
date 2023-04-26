@@ -1,4 +1,6 @@
 # Teil 1: AI Text Classifier austricksen
+**ACHTUNG! Du musst mindestens 13 Jahre alt sein, um die Dienste von OpenAI zu nutzen. Bitte die Erlaubnis Deiner Eltern holen** (wenn du älter als 13 Jahre bist, aber noch unter 18 Jahre alt)**, um die Dienste von OpenAI zu nutzen.**
+
 ## Was Du brauchst
 OpenAI-Konto
 
@@ -6,9 +8,8 @@ Dafür benötigt man:
 1. Handynummer
 2. e-Mail Konto 
 
-**!!! Achtung!!!** 
-
-Laut der OpenAI FAQ ist es momentan nicht möglich die Verknüpfung Deiner Handynummer  mit dem Konto aufzuheben, siehe https://help.openai.com/en/articles/6613520-phone-verification
+**!!! WICHTIG!!!** 
+Laut der OpenAI FAQ ist es momentan nicht möglich die Verknüpfung Deiner Handynummer  mit dem Konto aufzuheben, siehe https://help.openai.com/en/articles/6613520-phone-verification.
 
 ## Erstellung OpenAI Konto
 1. Geh zu dieser Webseite: https://platform.openai.com/ai-text-classifier
@@ -29,15 +30,25 @@ Laut der OpenAI FAQ ist es momentan nicht möglich die Verknüpfung Deiner Handy
 ## Können wir herausfinden, wann die AI den Text falsch klassifiziert?
 Was sind Eure Strategien, um die AI auszutricksen,
 1. von Menschen geschriebene Texte als AI-generierte Text zu klassifizieren?
-1. AI-generierte Text als von Menschen geschriebene Text zu klassifizieren?
+2. AI-generierte Text als von Menschen geschriebene Text zu klassifizieren?
 
 ## Ein Vorgehen, dass Du probieren kannst
+### von Menschen geschriebene Texte als KI-generiert falsch klassifizieren
 1. Nimm einen englischen Text, der von einem Menschen geschrieben wurde (z. B. Deinen englischen Aufsatz oder eine Passage aus einem englischen Buch). Was ist das Ergebenis?
 2. Verwende Google Translate oder DeepL, um den Text in eine andere Sprache (z. B. Deutsch) und dann wieder zurück ins Englische zu übersetzen. Bewertet der Klassifikator den Text anders?
+
+### KI-generierte Texte als von Menschen geschrieben falsch klassifiziert
+1. Lass ChatGPT einen englischen Aufsatz über ein Thema schreiben. Wie bewertet der AI-Text Classifier?
+2. Lass ChatGPT den Aufsatz in der Stil eines Kinds umschreiben. Ändert sich die Bewertung?
 3. Versuch mal mit den Text, der anhand Google Translate oder DeepL vom Englischen ins Nicht-Englische übersetzt wurde.
-4. Verwende jetzt den Text, den Du selbst übersetzt hast.
+4. Was passiert, wenn wir Teile des Aufsatz selber umschreiben?
 5. Was passiert, wenn wir grammatikalische Fehler hinzufügen?
+6. Lass ChatGPT einen Aufsatz auf Deutsch schreiben.
+7. Lass ChatGPT eine Gedichte (Deutsch oder Englisch) schreiben.
 
+## Überlegst mal ...
+1. Was sind die Gefahr, Deine Schulaufgabe immer an ChatGPT zu verlassen?
+2. Magst Du die Antwort von ChatGPT? Warum? Warum nicht?
+2. Was sind die Gefahr, wenn die AI Text Classifier falsch entscheidet?
 
-## Was sind die Gefahr, wenn die AI falsch entscheidet?
-
+## Halluzination von ChatGPT
