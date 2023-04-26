@@ -15,6 +15,6 @@ Das Jupyter Notebook [Telegram_Chatbot.ipynb](D:\TECO\GirlsDay\girls_day_2023\Te
 | Dateiname | Beschreibung | Link zu Colab |
 |-----------|--------------|---------------|
 |[Telegram_Chatbot.ipynb](Teil2_Chatbot\Telegram_Chatbot.ipynb) | Jupyter Notebook mit Erklärung und ein Paar Codelücke zum Ausfüllen| <a target="_blank" href="https://colab.research.google.com/github/teco-kit/girls_day_2023/blob/main/Teil2_Chatbot/Telegram_Chatbot.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>|
-|[Telegram_Chatbot_vollständig.ipynb](Teil2_Chatbot\Telegram_Chatbot_vollständig.ipynb)| Jupyter Notebook mit Erklärung und der vollständige Code||
-|[Telegram_Chatbot_nur_Code.ipynb](Teil2_Chatbot\Telegram_Chatbot_nur_Code.ipynb)|Jupyter Notebook mit nur Code, sodass man sieht, wie ein Script im Praxis aussehen sollte.||
+|[Telegram_Chatbot_vollständig.ipynb](Teil2_Chatbot\Telegram_Chatbot_vollständig.ipynb)| Jupyter Notebook mit Erklärung und der vollständige Code|<a target="_blank" href="https://colab.research.google.com/github/teco-kit/girls_day_2023/blob/main/Teil2_Chatbot/Telegram_Chatbot_vollst%C3%A4ndig.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>|
+|[Telegram_Chatbot_nur_Code.ipynb](Teil2_Chatbot\Telegram_Chatbot_nur_Code.ipynb)|Jupyter Notebook mit nur Code, sodass man sieht, wie ein Script im Praxis aussehen sollte.|<a target="_blank" href="https://colab.research.google.com/github/teco-kit/girls_day_2023/blob/main/Teil2_Chatbot/Telegram_Chatbot_nur_Code.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>|
 
