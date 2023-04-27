@@ -54,8 +54,8 @@ Was sind Eure Strategien, um die AI auszutricksen,
 ## Halluzination von ChatGPT
 Manchmal antwortet ChatGPT, als ob es absolut sicher ist. Allerdings sind die Antwort völlig falsch. Dies betrifft insbesondere auf sehr spezifishce Themen.
 Probiere diese Anfrage:
-`Can you use Stable Diffusion for Fraud Detection?`
+```Can you use Stable Diffusion for Fraud Detection?```
 ChatGPT wird sehr überzeugend antworten. Frage ihm nach die Quelle:
-`Please give me the sources or research papers on this idea.`
+```Please give me the sources or research papers on this idea.```
 Suche in Search Engine wie Google, DuckDuckGo, oder Bing nach dieser Quellen. Einige davon existieren gar nicht.
 
