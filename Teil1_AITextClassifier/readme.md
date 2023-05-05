@@ -68,13 +68,13 @@ Please give me the sources or research papers on this idea.
 Suche in Search Engine wie Google, DuckDuckGo, oder Bing nach dieser Quellen. Einige davon existieren gar nicht.
 
 <img
-  src="Teil1_AITextClassifier\images\can_you_use_stable_diffusion_for_fraud_detection.jpg"
+  src="https://github.com/teco-kit/girls_day_2023/blob/main/Teil1_AITextClassifier/images/can_you_use_stable_diffusion_for_fraud_detection.jpg?raw=true"
   alt="ChatGPT_NeueIdeen"
   title="Möglicherweise hat ChatGPT Stable Distribution mit Stable Diffusion verwechselt.">
 
 
 <img
-  src="Teil1_AITextClassifier\images\sources.png"
+  src="https://github.com/teco-kit/girls_day_2023/blob/main/Teil1_AITextClassifier/images/sources.png?raw=true"
   alt="ChatGPT_Halluzination"
   title="Einige Quelle existieren gar nicht.">
 

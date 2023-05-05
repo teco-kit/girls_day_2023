@@ -10,4 +10,4 @@ Wir wollen herausfinden, ob wir Computern beibringen können, zwischen dem Schre
 ## [Teil 2: Eigenes Chatbots erstellen](Teil2_Chatbot)
 Wir wollen auch versuchen, unseren eigenen Chatbot zu erstellen - ein Computerprogramm, das mit dir wie ein echter Mensch sprechen kann! Du musst keine Programmierkenntnisse haben, um mitzumachen. Wir werden ein KI-Modell verwenden, um uns zu helfen.
 
-[Gehe zu Teil 1 Anleitung](Teil2_Chatbot)
+[Gehe zu Teil 2 Anleitung](Teil2_Chatbot)
